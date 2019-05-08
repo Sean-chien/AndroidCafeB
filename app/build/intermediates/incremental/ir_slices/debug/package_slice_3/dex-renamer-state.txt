@@ -1,0 +1,4 @@
+#Tue May 07 11:38:31 PDT 2019
+base.0=/Users/seanchien/Desktop/AndroidFirstimages-master/app/build/intermediates/transforms/dexMerger/debug/3
+path.0=classes.dex
+renamed.0=classes.dex
